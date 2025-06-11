@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "53948f9f6127484b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ad6fa6c531e60df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de004e14f6fed0ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.文生图/01.gpt4o-images/01.GPT‑4o介绍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.GPT‑4o介绍"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "257dbefb7be59274",
+    "type": "split",
+    "children": [
+      {
+        "id": "c577336a83ab7f43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7fae8ecfe9b4187",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "41e6b780ee14c5b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d277f19a06d753a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88a78147d356ec8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a7c48b78b041062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c34003e7c4598409",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01.guide/01.提示词入门/01.主题初衷与诞生.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "01.主题初衷与诞生 的反向链接列表"
+            }
+          },
+          {
+            "id": "e73c1956a77d006d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "index 的出链列表"
+            }
+          },
+          {
+            "id": "dd8ae5b6678091c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f5c49bb8750700f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "index 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "de004e14f6fed0ca",
+  "lastOpenFiles": [
+    "02.文生图/01.gpt4o-images/02.案例目录.md",
+    "02.文生图/01.gpt4o-images/01.GPT‑4o介绍.md",
+    "02.文生图/01.gpt4o-images/05.gpt-image-gallery.md",
+    "02.文生图/01.gpt4o-images/06.gpt-image-1.md",
+    "02.文生图/01.gpt4o-images/06.gpt-image1.md",
+    "02.文生图/keep.txt",
+    "01.guide/01.提示词入门/01.主题初衷与诞生.md",
+    "01.guide/02.最佳实践/401.小红书封面.md",
+    "01.guide/02.最佳实践/301.SVG图形大师.md",
+    "01.guide/02.最佳实践/201.网页PPT专家.md",
+    "01.guide/02.最佳实践/07.3D教学展示网页.md",
+    "01.guide/02.最佳实践/06.言外之意.md",
+    "01.guide/02.最佳实践/05.AI自动排版卡片生成.md",
+    "01.guide/02.最佳实践/04.阅读理解巩固.md",
+    "01.guide/02.最佳实践/03.AI 味去除.md",
+    "01.guide/02.最佳实践/02.咪蒙风格标题.md",
+    "01.guide/02.最佳实践/01. 文档变成可视化网页-V0.md",
+    "01.guide/02.最佳实践",
+    "01.guide/01.提示词入门/01.什么是LLM大语言模型.md",
+    "01.guide/01.提示词入门/01.什么是.md",
+    "01.guide/02.提示词最佳实践/02.咪蒙风格标题.md",
+    "01.guide/02.提示词最佳实践/01. 文档变成可视化网页-V0.md",
+    "01.guide/01.提示词入门/02.介绍.md",
+    "index.md",
+    "01.guide/02.提示词最佳实践/401.小红书封面.md",
+    "@pages/tagsPage.md",
+    "@pages/categoriesPage.md",
+    "01.guide/02.提示词最佳实践/llm-3d-demo.html",
+    "01.guide/02.提示词最佳实践/301.SVG图形大师.md",
+    "02.文生图/prompts-gallery/AI Image Generation Prompts.pdf",
+    "07.Agent/01.涩涩女友.mk",
+    "07.Agent/01.涩涩女友",
+    "07.Agent/01.",
+    "07.Agent",
+    "06.AI编程/02.",
+    "06.AI编程",
+    "02.文生图/01.gpt4o-images/case-template/gold_pendant_necklace.png",
+    "02.文生图/01.gpt4o-images/examples/whales-poster.png",
+    "02.文生图/01.gpt4o-images/examples/vinyl-output.png",
+    "02.文生图/01.gpt4o-images/examples/vinyl-input.png",
+    "02.文生图/01.gpt4o-images/examples/vase.png",
+    "02.文生图/01.gpt4o-images/examples/tryon-output.png",
+    "02.文生图/01.gpt4o-images/examples/tryon-input.png",
+    "02.文生图/01.gpt4o-images/examples/t-shirts.png",
+    "02.文生图/01.gpt4o-images/examples/sprites.png",
+    "02.文生图/01.gpt4o-images/examples/speaker-output.png"
+  ]
+}
