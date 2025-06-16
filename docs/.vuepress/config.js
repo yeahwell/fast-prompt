@@ -34,6 +34,11 @@ module.exports = {
             text: '最佳实践', items: [
               { text: '文档变成可视化网页', link: '/pages/guide/practice/llm2html.html' },
             ]
+          },
+          {
+            text: '提示词管理', items: [
+              { text: '提示词管理工具', link: '/pages/guide/manager/tool.html' },
+            ]
           }
         ]
       },
@@ -46,7 +51,12 @@ module.exports = {
           { text: 'gpt-image-1', link: '/pages/image/gtp4o/gpt-image-1.html' },
         ]
       },
-      { text: '文生视频', link: '/pages/db78e2/' },
+      { text: '文生视频', link: '/pages/db78e2/', items: [
+          { text: '即梦AI视频生成', link: 'https://waytoagi.feishu.cn/wiki/LUgPw7E0mi5HqZkdqSMcf73Knph' },
+          { text: 'Vidu 提示词指南', link: 'https://shengshu.feishu.cn/docx/Dtv8dbnUKo5glfxDoLXcEwzSnyd' },
+          { text: '可灵AI使用指南', link: 'https://docs.qingque.cn/d/home/eZQBGvsEtlGCz5-IhhQP3S-eM' },
+        ]
+      },
       { text: '文生音乐', link: '/pages/5d571c/' },
       { text: '文生3D', link: '/pages/9cc27d/' },
       { text: 'AI编程', link: '/pages/1b12ed/' },
@@ -54,7 +64,7 @@ module.exports = {
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     logo: '/img/logo.png', // 导航栏logo
-    repo: 'xugaoyi/vuepress-theme-vdoing', // 导航栏右侧生成Github链接
+    repo: 'yeahwell/fast-prompt', // 导航栏右侧生成Github链接
     searchMaxSuggestions: 10, // 搜索结果显示最大数
     lastUpdated: '上次更新', // 更新的时间，及前缀文字   string | boolean (取值为git提交时间)
 

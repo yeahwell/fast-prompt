@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1ad6fa6c531e60df",
+        "id": "00aeb547bffd3f3b",
         "type": "tabs",
         "children": [
           {
-            "id": "de004e14f6fed0ca",
+            "id": "b1122ac842e80402",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.文生图/01.gpt4o-images/01.GPT‑4o介绍.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01.GPT‑4o介绍"
+              "title": "新标签页"
             }
           }
         ]
@@ -168,7 +164,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "de004e14f6fed0ca",
+  "active": "e7fae8ecfe9b4187",
   "lastOpenFiles": [
     "02.文生图/01.gpt4o-images/02.案例目录.md",
     "02.文生图/01.gpt4o-images/01.GPT‑4o介绍.md",
