@@ -51,7 +51,7 @@ module.exports = {
           { text: 'gpt-image-1', link: '/pages/image/gtp4o/gpt-image-1.html' },
         ]
       },
-      { text: '文生视频', link: '/pages/db78e2/', items: [
+      { text: '文生视频', link: '/pages/video/keling/shot.html', items: [
           { text: '即梦AI视频生成', link: 'https://waytoagi.feishu.cn/wiki/LUgPw7E0mi5HqZkdqSMcf73Knph' },
           { text: 'Vidu 提示词指南', link: 'https://shengshu.feishu.cn/docx/Dtv8dbnUKo5glfxDoLXcEwzSnyd' },
           { text: '可灵AI使用指南', link: 'https://docs.qingque.cn/d/home/eZQBGvsEtlGCz5-IhhQP3S-eM' },
