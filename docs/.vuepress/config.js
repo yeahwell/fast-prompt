@@ -51,15 +51,18 @@ module.exports = {
           { text: 'gpt-image-1', link: '/pages/image/gtp4o/gpt-image-1.html' },
         ]
       },
-      { text: '文生视频', link: '/pages/video/keling/shot.html', items: [
-          { text: '即梦AI视频生成', link: 'https://waytoagi.feishu.cn/wiki/LUgPw7E0mi5HqZkdqSMcf73Knph' },
-          { text: 'Vidu 提示词指南', link: 'https://shengshu.feishu.cn/docx/Dtv8dbnUKo5glfxDoLXcEwzSnyd' },
-          { text: '可灵AI使用指南', link: 'https://docs.qingque.cn/d/home/eZQBGvsEtlGCz5-IhhQP3S-eM' },
+      { text: '文生视频', link: '/pages/video/jimeng/index.html', items: [
+          { text: '即梦AI视频生成', link: '/pages/video/jimeng/index.html' },
+          { text: 'Vidu 提示词指南', link: '/pages/video/vidu/index.html' },
+          { text: '可灵AI使用指南', link: '/pages/video/keling/index.html' },
         ]
       },
       { text: '文生音乐', link: '/pages/5d571c/' },
       { text: '文生3D', link: '/pages/9cc27d/' },
-      { text: 'AI编程', link: '/pages/1b12ed/' },
+      { text: 'AI编程', link: '/pages/1b12ed/', items: [
+        { text: 'replit入门教程', link: 'https://learn.deeplearning.ai/courses/vibe-coding-101-with-replit/lesson/zwj9r/introduction' },
+      ]
+      },
       { text: 'Agent', link: '/pages/1b12ed/' },
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
