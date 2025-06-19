@@ -57,8 +57,11 @@ module.exports = {
           { text: '可灵AI使用指南', link: '/pages/video/keling/index.html' },
         ]
       },
-      { text: '文生音乐', link: '/pages/5d571c/' },
-      { text: '文生3D', link: '/pages/9cc27d/' },
+      { text: '文生音乐', link: '/pages/5d571c/'},
+      { text: '文生游戏', link: '/pages/game/holopix/index.html' , items: [
+        { text: 'Holopix学院', link: 'https://holopix.cn?inviteCode=513296' },
+      ]
+    },
       { text: 'AI编程', link: '/pages/1b12ed/', items: [
         { text: 'replit入门教程', link: 'https://learn.deeplearning.ai/courses/vibe-coding-101-with-replit/lesson/zwj9r/introduction' },
       ]
