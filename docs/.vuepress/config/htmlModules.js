@@ -45,12 +45,13 @@ module.exports = {
       }
   </style>
   `,
+
   // 赞助商广告
-  sidebarT: `
-  <a href="https://www.aippt.cn/api/share/page?utm_unit=PCTM&code=69badce8e9" target="_blank">
-    <img src="https://static.doudaihuo.com/aippt/image_2.jpg" alt="npm" class="no-zoom" style="width: 100%;border-radius: 2px;">
-    <p style="text-align: center;margin: 0;color: #999;font-size: 12px;">进入注册为作者充电</p>
-  </a>`,
+  // sidebarT: `
+  // <a href="https://www.aippt.cn/api/share/page?utm_unit=PCTM&code=69badce8e9" target="_blank">
+  //   <img src="https://static.doudaihuo.com/aippt/image_2.jpg" alt="npm" class="no-zoom" style="width: 100%;border-radius: 2px;">
+  //   <p style="text-align: center;margin: 0;color: #999;font-size: 12px;">进入注册为作者充电</p>
+  // </a>`,
 
 
   // windowRB: `
